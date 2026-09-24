@@ -20,7 +20,7 @@ The notes are for easier learning, revision, and interview preparation.
 ## Repository Structure
 
 ```text
-cpp-deep-dive/
+cpp-masterclass/
 │
 ├── README.md
 │
@@ -613,7 +613,7 @@ Concurrency/multithreading is also covered in this repository, but detailed mult
 The broader interview preparation can be combined with:
 
 ```text
-cpp-deep-dive
+cpp-masterclass
     ↓
 C++ Language + OOP + STL + Modern C++
 
