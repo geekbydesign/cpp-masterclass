@@ -1,4 +1,4 @@
-# C++ Deep Dive
+# C++ Masterclass
 
 A comprehensive C++ learning and revision repository covering C++ fundamentals through advanced modern C++, including C++11, C++14, C++17, C++20, and C++23.
 
