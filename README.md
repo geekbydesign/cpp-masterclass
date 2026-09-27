@@ -538,19 +538,6 @@ cpp-deep-dive/
 │   ├── 03-views.md
 │   └── 04-new-language-and-library-features.md
 │
-├── 39-concurrency/
-│   ├── 01-thread.md
-│   ├── 02-thread-lifecycle.md
-│   ├── 03-passing-data-to-threads.md
-│   ├── 04-mutex.md
-│   ├── 05-lock-guard.md
-│   ├── 06-unique-lock.md
-│   ├── 07-condition-variable.md
-│   ├── 08-atomic.md
-│   ├── 09-future-promise.md
-│   ├── 10-async.md
-│   └── 11-jthread.md
-│
 └── 99-interview-revision/
     ├── cpp-interview-questions.md
     ├── oop-interview-questions.md
@@ -608,7 +595,6 @@ The dedicated `99-interview-revision/` directory contains interview-focused ques
 
 ## Related Learning
 
-Concurrency/multithreading is also covered in this repository, but detailed multithreading study can be maintained separately when needed.
 
 The broader interview preparation can be combined with:
 
