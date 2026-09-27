@@ -1,4 +1,4 @@
-# C++ Deep Dive
+# C++ Masterclass
 
 A comprehensive C++ learning and revision repository covering C++ fundamentals through advanced modern C++, including C++11, C++14, C++17, C++20, and C++23.
 
@@ -20,7 +20,7 @@ The notes are for easier learning, revision, and interview preparation.
 ## Repository Structure
 
 ```text
-cpp-deep-dive/
+cpp-masterclass/
 │
 ├── README.md
 │
@@ -599,7 +599,7 @@ The dedicated `99-interview-revision/` directory contains interview-focused ques
 The broader interview preparation can be combined with:
 
 ```text
-cpp-deep-dive
+cpp-masterclass
     ↓
 C++ Language + OOP + STL + Modern C++
 
